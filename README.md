@@ -31,8 +31,3 @@ This project is a **disaster management system** that allows for the collection 
 - Publishing on the cloud (Firebase Hosting)
 
 ---
-
-## Screenshots
-You can find them in the /screenshots directory.
-
----
