@@ -32,7 +32,7 @@ This project is a **disaster management system** that allows for the collection 
 
 ---
 
-## Explanatory Videos
-You can find them in the /videos directory.
+## Screenshots
+You can find them in the /screenshots directory.
 
 ---
