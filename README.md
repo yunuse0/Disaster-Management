@@ -17,7 +17,7 @@ This project is a **disaster management system** that allows for the collection 
 | **React.js** | Frontend user interface |
 | **Firebase** | Realtime Database, Authentication, Hosting |
 | **Leaflet.js** | Map display and marker usage |
-| **Google Cloud** | Hosting infrastructure via Firebase |
+| **Firebase Hosting** | Hosting infrastructure via Firebase |
 
 ---
 
